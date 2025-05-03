@@ -1,0 +1,5 @@
+user_id,content_id,action,timestamp,device,region,session_id
+124,1003,forward,2023-09-05 08:05:30,tablet,APAC,sess24X
+125,1008,play,2023-09-05 09:25:40,mobile,US,sess25Y
+126,1006,pause,2023-09-05 10:35:55,desktop,EU,sess26Z
+127,1002,skip,2023-09-05 11:50:20,tablet,APAC,sess27A

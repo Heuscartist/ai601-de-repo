@@ -1,0 +1,7 @@
+user_id,content_id,action,timestamp,device,region,session_id
+107,1004,skip,2023-09-02 08:10:22,mobile,US,sess7G
+108,1006,forward,2023-09-02 09:45:33,desktop,EU,sess8H
+109,1009,play,2023-09-02 10:15:55,tablet,APAC,sess9I
+110,1010,pause,2023-09-02 11:20:10,mobile,US,sess10J
+111,1003,skip,2023-09-02 12:50:40,desktop,EU,sess11K
+112,1005,forward,2023-09-02 13:35:25,tablet,APAC,sess12L
